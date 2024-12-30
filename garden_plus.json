@@ -1,7 +1,7 @@
 {
   "secureValue": {
     "signature": [
-      2077530147,
+      2077530148,
       1413325522
     ],
     "initialized": 1,
@@ -26769,14 +26769,14 @@
       "unknown0x06b7c": 0,
       "unknown0x06b80": 0,
       "padding0x06b84": 0,
-      "crc32_2": 40263647,
+      "crc32_2": 1232526270,
       "bank": 0,
       "debt": 198000,
       "medals": 11,
       "bellsFromReese": 248889,
       "padding0x06ba4": 0,
       "playtime": [
-        36797,
+        37369,
         0
       ],
       "townId": {
@@ -26803,7 +26803,7 @@
           "flag2": 0
         },
         {
-          "id": 32766,
+          "id": 11230,
           "flag1": 0,
           "flag2": 0
         },
@@ -27266,7 +27266,7 @@
         0,
         0,
         65,
-        0,
+        64,
         0,
         0,
         5,
@@ -28025,7 +28025,7 @@
           "padding0x0026c": 0,
           "receiverNamePos": 5,
           "paperType": 18,
-          "unknown0x00270": 9,
+          "unknown0x00270": 10,
           "unknown0x00271": 0,
           "type": 0,
           "unknown0x00273": 0,
@@ -29181,13 +29181,13 @@
         0,
         0,
         0,
+        21,
         0,
         0,
         0,
         0,
         0,
-        0,
-        7,
+        16,
         0,
         0,
         192,
@@ -130807,7 +130807,7 @@
     }
   ],
   "villagerData": {
-    "crc32": 1222579862,
+    "crc32": 3080795224,
     "villagers": [
       {
         "unknown0x00000": {
